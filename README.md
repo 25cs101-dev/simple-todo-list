@@ -86,6 +86,4 @@ Enter your choice (1-4): 4
 Goodbye! Thanks for using Simple To-Do List.
 ```
 
-## Note
 
-Tasks are stored only while the program is running. When you exit, the list is cleared.
